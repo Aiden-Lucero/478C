@@ -1,4 +1,7 @@
 # 478 Lab 06 Shellcode Demonstration Lab
+Safety statement:
+  I ran this lab in the provided Ubuntu Docker image and did not connect to any external hosts. This work is for educational/defensive learning only.
+  
 1. Aiden Lucero
 2. ID: 028596904
 
