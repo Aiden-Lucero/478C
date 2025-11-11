@@ -10,9 +10,9 @@ Commands Used to Compile:
 3. nano hello64.s -> gcc -no-pie -o hello64 hello64.s
 
 Commands to run:
-Terminal A: ./echo_server
-Terminal B: ./hello64
-Terminal C: ./echo_client
+1. Terminal A: ./echo_server
+2. Terminal B: ./hello64
+3. Terminal C: ./echo_client
 
 <img width="3839" height="2018" alt="image" src="https://github.com/user-attachments/assets/af249f05-8e42-4edb-b6b4-7145e4ef38ae" />
 
